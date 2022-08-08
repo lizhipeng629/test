@@ -67,4 +67,6 @@ func main() {
 		fmt.Printf("\t\t分类：%s\n", value.Type)
 		fmt.Printf("\t\t标题：%s\n", value.Title)
 	}
+	// 测试
+	// 测试忽略add
 }
